@@ -1,0 +1,15 @@
+.list {
+  list-style: none;
+  margin: 10px;
+}
+
+.list1 {
+  margin: 10px;
+  border-style: none;
+  background-color: transparent;
+}
+
+.click {
+  color: blue;
+  border-style: none;
+}
